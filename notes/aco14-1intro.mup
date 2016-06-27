@@ -1,0 +1,553 @@
+{
+  "title": "aco14-1intro",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "group",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Serhii",
+          "id": 72,
+          "ideas": {
+            "1": {
+              "title": "programming",
+              "id": 73,
+              "ideas": {
+                "1": {
+                  "title": "4",
+                  "id": 74
+                }
+              }
+            },
+            "2": {
+              "title": "teaching",
+              "id": 75,
+              "ideas": {
+                "1": {
+                  "title": "2",
+                  "id": 76
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Vlad",
+          "id": 78,
+          "ideas": {
+            "1": {
+              "title": "Support",
+              "id": 79,
+              "ideas": {
+                "1": {
+                  "title": "Epam",
+                  "id": 80
+                }
+              }
+            },
+            "2": {
+              "title": "3 hours",
+              "id": 81
+            },
+            "3": {
+              "title": "2 m",
+              "id": 82,
+              "ideas": {
+                "1": {
+                  "title": "Java Jun",
+                  "id": 84
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "title": "Dima ",
+          "id": 86,
+          "ideas": {
+            "1": {
+              "title": "Support",
+              "id": 87,
+              "ideas": {
+                "1": {
+                  "title": "Epam",
+                  "id": 88
+                }
+              }
+            },
+            "2": {
+              "title": "2-3 hours",
+              "id": 89
+            },
+            "3": {
+              "title": "5 m",
+              "id": 90,
+              "ideas": {
+                "1": {
+                  "title": "Java Jun",
+                  "id": 91
+                },
+                "2": {
+                  "title": "Silenium",
+                  "id": 92
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "title": "Lida",
+          "id": 93,
+          "ideas": {
+            "1": {
+              "title": "6 m",
+              "id": 94,
+              "ideas": {
+                "1": {
+                  "title": "it scope",
+                  "id": 95,
+                  "ideas": {
+                    "1": {
+                      "title": "android",
+                      "id": 96
+                    }
+                  }
+                }
+              }
+            },
+            "0.5": {
+              "title": "4 h",
+              "id": 97
+            }
+          }
+        },
+        "5": {
+          "title": "Olexiy",
+          "id": 98,
+          "ideas": {
+            "1": {
+              "title": "integration of some app",
+              "id": 99
+            },
+            "2": {
+              "title": "2-4 hours",
+              "id": 100
+            },
+            "3": {
+              "title": "5 m",
+              "id": 101,
+              "ideas": {
+                "1": {
+                  "title": "Java tasks in the company",
+                  "id": 102
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "title": "Igor",
+          "id": 103,
+          "ideas": {
+            "1": {
+              "title": "manager",
+              "id": 104,
+              "ideas": {}
+            },
+            "2": {
+              "title": "1 year",
+              "id": 106,
+              "ideas": {
+                "1": {
+                  "title": "android",
+                  "id": 107,
+                  "ideas": {
+                    "1": {
+                      "title": "freelance",
+                      "id": 108,
+                      "ideas": {
+                        "1": {
+                          "title": "Html css",
+                          "id": 110
+                        },
+                        "2": {
+                          "title": "JavaScript",
+                          "id": 111
+                        },
+                        "3": {
+                          "title": "Python",
+                          "id": 112,
+                          "attr": {
+                            "style": {}
+                          }
+                        },
+                        "4": {
+                          "title": "php",
+                          "id": 113
+                        },
+                        "5": {
+                          "title": "ruby",
+                          "id": 114,
+                          "attr": {
+                            "style": {}
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "1.5": {
+              "title": "2 hours",
+              "id": 115
+            }
+          }
+        },
+        "7": {
+          "title": "Serhii",
+          "id": 128,
+          "ideas": {
+            "1": {
+              "title": "2-4 hours",
+              "id": 129
+            },
+            "2": {
+              "title": "Java Jun",
+              "id": 130,
+              "ideas": {
+                "1": {
+                  "title": "3 m",
+                  "id": 131
+                }
+              }
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {}
+      }
+    },
+    "6": {
+      "title": "goal",
+      "id": 116,
+      "ideas": {
+        "1": {
+          "title": "Own Project",
+          "id": 117,
+          "ideas": {
+            "1": {
+              "title": "all topics",
+              "id": 118
+            }
+          }
+        }
+      }
+    },
+    "11": {
+      "title": "requirements",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "Debug and Visualization",
+          "id": 12,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "http://pythontutor.com/visualize.html#mode=edit",
+              "id": 44
+            },
+            "2": {
+              "title": "debug mode in idea",
+              "id": 45
+            }
+          }
+        },
+        "3": {
+          "title": "Primitive vs Reference",
+          "id": 14,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {}
+        },
+        "0.5": {
+          "title": "Data Types",
+          "id": 13,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "Primitives",
+              "id": 16,
+              "ideas": {
+                "1": {
+                  "title": "8 types",
+                  "id": 23
+                },
+                "2": {
+                  "title": "no methods",
+                  "id": 24
+                }
+              }
+            },
+            "2": {
+              "title": "References",
+              "id": 17,
+              "ideas": {
+                "1": {
+                  "title": "String",
+                  "id": 123
+                },
+                "2": {
+                  "title": "type[]",
+                  "id": 124
+                },
+                "3": {
+                  "title": "ArrayList",
+                  "id": 125
+                },
+                "4": {
+                  "title": "Scanner",
+                  "id": 126
+                }
+              }
+            },
+            "3": {
+              "title": "Data storing in java",
+              "id": 26,
+              "ideas": {
+                "1": {
+                  "title": "stack",
+                  "id": 27,
+                  "attr": {
+                    "position": [
+                      187,
+                      -20.5,
+                      1
+                    ],
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "heap",
+                  "id": 28
+                }
+              }
+            }
+          }
+        },
+        "0.75": {
+          "title": "Program Lifecycle",
+          "id": 19,
+          "ideas": {
+            "1": {
+              "title": "compiling",
+              "id": 29,
+              "ideas": {
+                "1": {
+                  "title": "javac",
+                  "id": 31
+                }
+              }
+            },
+            "2": {
+              "title": "running",
+              "id": 30,
+              "ideas": {
+                "1": {
+                  "title": "java",
+                  "id": 33,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              }
+            }
+          }
+        },
+        "0.875": {
+          "title": "components",
+          "id": 34,
+          "ideas": {
+            "2": {
+              "title": "java file",
+              "id": 47,
+              "ideas": {
+                "1": {
+                  "title": "class",
+                  "ideas": {
+                    "1": {
+                      "title": "method",
+                      "ideas": {
+                        "1": {
+                          "title": "method organization(running)",
+                          "id": 51
+                        },
+                        "2": {
+                          "title": "main method",
+                          "id": 52
+                        }
+                      },
+                      "id": 50
+                    }
+                  },
+                  "id": 49,
+                  "attr": {
+                    "style": {},
+                    "position": [
+                      148,
+                      -1.1875,
+                      1
+                    ]
+                  }
+                }
+              }
+            },
+            "3": {
+              "title": "programming components",
+              "id": 53,
+              "ideas": {
+                "1": {
+                  "title": "variable",
+                  "id": 54,
+                  "ideas": {
+                    "1": {
+                      "title": "primitive",
+                      "id": 68
+                    },
+                    "2": {
+                      "title": "reference",
+                      "id": 69,
+                      "ideas": {
+                        "1": {
+                          "title": "arrays",
+                          "id": 70,
+                          "ideas": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "title": "blocks",
+                  "id": 55,
+                  "ideas": {
+                    "1": {
+                      "title": "conditions",
+                      "id": 57,
+                      "ideas": {
+                        "1": {
+                          "title": "if",
+                          "id": 58
+                        },
+                        "2": {
+                          "title": "if-else",
+                          "id": 59
+                        },
+                        "3": {
+                          "title": "else if",
+                          "id": 60
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "loops",
+                      "id": 63,
+                      "ideas": {
+                        "1": {
+                          "title": "for",
+                          "id": 64
+                        },
+                        "2": {
+                          "title": "while",
+                          "id": 65
+                        },
+                        "3": {
+                          "title": "do-while",
+                          "id": 66
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "0.25": {
+          "title": "Instruments",
+          "id": 119,
+          "ideas": {
+            "1": {
+              "title": "jdk 1.8",
+              "id": 120
+            },
+            "2": {
+              "title": "Intellij Idea",
+              "id": 121,
+              "ideas": {
+                "1": {
+                  "title": "Community",
+                  "id": 122
+                }
+              }
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {}
+      }
+    },
+    "21": {
+      "title": "topics",
+      "id": 6,
+      "ideas": {}
+    },
+    "-1": {
+      "title": "wifi",
+      "id": 20,
+      "ideas": {
+        "1": {
+          "title": "artcode",
+          "id": 21
+        },
+        "2": {
+          "title": "dreams_come_true",
+          "id": 22
+        }
+      }
+    }
+  },
+  "links": [
+    {
+      "ideaIdFrom": 42,
+      "ideaIdTo": 27,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed",
+          "arrow": true
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 31,
+      "ideaIdTo": 49,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed",
+          "arrow": true
+        }
+      }
+    }
+  ]
+}
