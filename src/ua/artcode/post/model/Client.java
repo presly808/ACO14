@@ -28,4 +28,14 @@ public class Client {
     public void setPassport(Passport passport) {
         this.passport = passport;
     }
+
+    @Override
+    public String toString() {
+        return "Client{" +
+                "phone='" + phone + '\'' +
+                ", passport=" + passport +
+                '}';
+    }
+
+    
 }
