@@ -1,3 +1,5 @@
+0. Test test2.txt in home folder
+
 1. Finish prev. homework
 
 2. Make Uml(Class Diagram) of next task

@@ -1,0 +1,34 @@
+1. Primitive vs Reference
+
+2. Stack and Heap 
+
+3. Class structure
+
+4. static vs non-statitic
+
+5. keywords "new", "this"
+
+6. constructor
+
+7. Describe next sequence(all actions with order)
+	
+	User user = new User();
+
+8. overloading
+
+9. is-a, has-a
+
+10. inheritance
+
+11. super
+
+12. Abstraction
+
+13. Polymorphism
+
+14. overriding
+
+15. TDD
+[12:43:12] Serhii   Bilobrov: send answers to artcodekiev@gmail.com
+[12:47:34] Serhii   Bilobrov: На тест 30 хв
+
