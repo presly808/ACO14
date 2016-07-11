@@ -1,5 +1,6 @@
 package ua.artcode.post.test;
 
+import ua.artcode.post.controller.IManagerController;
 import ua.artcode.post.controller.ManagerController;
 import ua.artcode.post.db.AppDataContainer;
 import ua.artcode.post.model.Client;
@@ -20,7 +21,7 @@ public class TestManagerController {
     }
 
     private static void testGetClient() {
-        ManagerController managerController = new ManagerController(new AppDataContainer());
+        IManagerController managerController = new ManagerController(new AppDataContainer());
 
         // prepare data for test
         managerController.addClient(new Passport("UE23412", "Serhii Bilobrov"),"0933091219");
@@ -36,7 +37,7 @@ public class TestManagerController {
     }
 
     public static void testAddClient(){
-        ManagerController managerController = new ManagerController(new AppDataContainer());
+        IManagerController managerController = new ManagerController(new AppDataContainer());
         Passport in1 = new Passport("UE23412", "Serhii Bilobrov");
         String in2 = "0933091219";
         Client expected =
