@@ -1,0 +1,52 @@
+1. Finish all tasks in the newpost project
+
+2. 
+Exceptions
+https://youtu.be/zzzXOYZOzzo?list=PLvmHg49t5OCRWqG58bycrLoAr85e-e9dd&t=2810
+
+Generics
+https://youtu.be/3DMc8ROSWko?list=PLvmHg49t5OCRWqG58bycrLoAr85e-e9dd
+
+Sorting, Comparable vs Comparator
+https://youtu.be/KtlLMLR4mBI?list=PLvmHg49t5OCQeODC20iDQpBOXFXHJz2em&t=5650
+
+Java IO
+https://youtu.be/IKpUeEFQmkI?list=PLvmHg49t5OCRWqG58bycrLoAr85e-e9dd
+
+*Additional
+	Regexp http://regexone.com/
+	Git    https://www.codecademy.com/learn/learn-git
+	
+3*.Future tasks = do some plan and try add new functional to the newpost(if you will have free time)
+
+	- use exceptions
+	- use advanced filters for tickets (by name, by address, by price, by ownerName)
+	- fill up our db by test data
+	- save db to a file
+	- load db from a file
+	
+	Think about 
+		DirectorController
+			control money account 
+			pay salary
+			pay tax
+			get reports (each employee will make report(all actions of employee(use logs)))
+			some actions with employees
+				add
+				remove
+				find
+				filter
+				showInfo			
+
+		AdminController
+			some actions with employees
+				add
+				remove
+				find
+				filter
+				showInfo
+			show logs
+			logs search			
+
+			
+
