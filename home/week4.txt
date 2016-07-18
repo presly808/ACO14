@@ -1,0 +1,17 @@
+1. Finish current project tasks
+
+2. Algorithms and Data Structures and Recursion
+
+	https://youtu.be/x8s_cab0MSk?list=PLvmHg49t5OCRWqG58bycrLoAr85e-e9dd
+	https://www.youtube.com/watch?v=__EutOsErSA&index=9&list=PLvmHg49t5OCRWqG58bycrLoAr85e-e9dd
+
+3. Minmun ten tasks form codingbat recursion section
+	http://codingbat.com/java/Recursion-1
+
+4. Do map tasks 
+	http://codingbat.com/java/Map-1
+	http://codingbat.com/java/Map-2
+
+
+5. Define good strucutres for our project
+

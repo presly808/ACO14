@@ -1,0 +1,34 @@
+ACO14NameTest4.txt -> artcodekiev@gmail.com
+
+1. Goals of Exceptions
+
+2. Hierarchy of exceptions
+
+3. Checked vs Unchecked
+
+4. throws vs try - catch - finally
+
+5. How to choose between (throws) and (try-catch);
+
+6. Purpose of streams
+
+7. InputStream methods
+
+8. OutputStream methods
+
+9. Hierarchy of InputStream(SubClasses)
+
+10. Compare byte streams vs char streams
+
+11. Generic goals
+
+12. Comparator vs Comparable
+
+13. Adapter Example in java.io
+
+14. Decorator Example in java.io
+
+15. How to works default java serialization?
+    Lifecycle
+    Requirements
+    pluses and minuses
