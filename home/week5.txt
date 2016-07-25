@@ -1,0 +1,34 @@
+Tasks 
+1. learn (8 hours)
+	java collections
+		(xmind file, download and open)
+		https://drive.google.com/file/d/0B3pUqYFBBsi-a0s0UHp1S1dOc0k/view
+		video
+		https://www.youtube.com/watch?v=U_xtKiYo1is&index=13&list=PLvmHg49t5OCQeODC20iDQpBOXFXHJz2em
+		https://www.youtube.com/watch?v=IQOqoWdcwpk&index=14&list=PLvmHg49t5OCQeODC20iDQpBOXFXHJz2em
+
+	1.2* add collections to our project	
+
+2. https://www.codecademy.com/learn/learn-the-command-line(3 hours)
+
+	2.1* My recommendation is to install linux (ubuntu gnome) and use it for improving your devops(admin) skills
+	(if you are ready see next steps) 
+	https://github.com/presly808/ACO8/blob/343366c60c5d7199eaeb1b22b8674f445a5e0df9/home/linux_beginner_steps.txt
+
+3. https://www.codecademy.com/learn/learn-git (3 hours)
+   http://learngitbranching.js.org/(2 hours)
+	
+	after all use git bash for all github manipulations
+
+4. Learn GUI Swing
+	https://youtu.be/B0msJAN9O0c?list=PLvmHg49t5OCRWqG58bycrLoAr85e-e9dd (1 hour)
+
+	or
+	
+	JavaFx (find resources by yourself)
+
+	4.1* Try add GUI to our application (3-4 hours)
+
+5. If you will have some questions, just ask Me or Anya
+
+
