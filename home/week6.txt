@@ -1,0 +1,31 @@
+0. Repeat java collections 
+    see prev. home
+    
+1. Implement Map interface based on hashtable (3 hours)
+                watch video above
+   Must use: Generics, Exceptions,
+                loadFactor(rehashing)
+                implement Iterator (for keys and values)
+
+             !Your type that you put in map as key must override (equals, hashCode)
+
+
+2. Implement BinarySearchTree (3 hours)
+    methods
+    - add
+    - traverse
+    - findMin
+    - findMax
+    - delete
+
+    * tree optimization
+        * rotate right
+        * rotate left
+    * implement iterator
+    
+3.  https://www.codecademy.com/learn/learn-the-command-line (3 hours)
+    https://www.codecademy.com/learn/learn-git (3 hours)
+    http://learngitbranching.js.org/ (2 hours)
+    
+4. REGEXP 
+    http://regexone.com/ (2 hours)
